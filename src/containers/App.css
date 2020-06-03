@@ -1,0 +1,12 @@
+@font-face {
+  font-family: "IronMan Regular";
+  font-style: normal;
+  font-weight: normal;
+  src: local("IronMan Regular"), url("IRONMAN.woff") format("woff");
+}
+
+h1 {
+  font-family: "IronMan Regular";
+  font-weight: 500;
+  color: #380a0a;
+}
